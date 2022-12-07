@@ -1,0 +1,4 @@
+{
+    "cortex-debug.gdbPath": "arm-none-eabi-gdb",
+    "cortex-debug.JLinkGDBServerPath": "S:\\Program Files\\SEGGER\\JLink\\JLinkGDBServerCL.exe",
+}
